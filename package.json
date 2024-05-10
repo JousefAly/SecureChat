@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JousefAly/SecureChat/issues"
   },
-  "homepage": "https://github.com/JousefAly/SecureChat#readme"
+  "homepage": "https://github.com/JousefAly/SecureChat#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
